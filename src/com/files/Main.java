@@ -26,7 +26,7 @@ public class Main {
             System.out.println("myFile.txt exists");
         }
 
-        // Checking if file myFile.txt exists
+        // Checking if file myFile.txt is a file
         if (file.isFile()) {
             System.out.println("myFile.txt is one file.");
         } else {
